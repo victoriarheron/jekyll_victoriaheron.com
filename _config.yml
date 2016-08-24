@@ -1,0 +1,41 @@
+description: Linear template for Jekyll
+paginate: 10
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+ # Comment out url for development
+# url: http://www.victoriaheron.com
+name: Linear
+title: Victoria Heron
+email: victoriaheron@gmail.com
+description: > # "Welcome to the yoga website of Victoria Heron!"
+# destination: ../victoriaheron.github.io
+
+# For Testing, uncomment next line - For production comment out next line. 'jekyll build' ==> destination
+destination: ../victoriaheron.github.io_testing
+
+# For deployment to production- Uncomment next line, `jekyll build`
+# Then push ../victoriheron.github.io to github
+# destination: /Users/jessheiner/workspace/victoriaheron.github.io
+
+keep_files: [.git]
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  # - title: twitter
+  #   url: https://twitter.com/jessbheron
+  - title: github
+    url: https://github.com/victoriaheron
+  - title: linkedin
+    url: https://linkedin.com/in/jessheron
