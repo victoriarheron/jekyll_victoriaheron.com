@@ -1,5 +1,6 @@
 description: Linear template for Jekyll
 paginate: 10
+gems: [jekyll-paginate]
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
@@ -13,11 +14,11 @@ description: > # "Welcome to the yoga website of Victoria Heron!"
 # destination: ../victoriaheron.github.io
 
 # For Testing, uncomment next line - For production comment out next line. 'jekyll build' ==> destination
-destination: ../victoriaheron.github.io_testing
+# destination: ../victoriaheron.github.io_testing
 
 # For deployment to production- Uncomment next line, `jekyll build`
 # Then push ../victoriheron.github.io to github
-# destination: /Users/jessheiner/workspace/victoriaheron.github.io
+destination: ../victoriaheron.github.io
 
 keep_files: [.git]
 # ----------------------- #
