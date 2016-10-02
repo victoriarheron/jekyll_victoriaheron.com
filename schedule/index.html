@@ -1,0 +1,22 @@
+---
+title: About
+layout: default
+---
+
+<!-- Main -->
+	<div id="main">
+		<div id="content" class="container">
+			{% for event in site.events offset: 0 limit: 4 %}
+			<div class="row">
+				<section class="8u -2u">
+					<a href="{{ site.prefix }}{{ event.url }}" class="image full"><img src="/assets/{{ event.featured }}" alt=""></a>
+					<header>
+						<h2>{{ event.title }}</h2>
+					</header>
+					{{ event.excerpt }}
+					<a href="{{ site.prefix }}{{ event.url }}" class="button button-style1">Read More</a>
+				</section>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
