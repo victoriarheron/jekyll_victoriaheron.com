@@ -11,7 +11,7 @@
 title: 'Victoria Heron Yoga'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Do your practice and all is coming.'
+# slogan: 'Do your practice and all is coming.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'This site is an introduction and holding space for Victoria Heron and her practice.'
@@ -43,7 +43,7 @@ urlimg: 'https://victoriaheron.github.io/assets/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 # Gems
 gems:
