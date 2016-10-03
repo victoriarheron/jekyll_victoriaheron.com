@@ -39,11 +39,11 @@ improve_content: https://github.com/victoriaheron/home/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://victoriaheron.github.io/feeling-responsive/images/'
+urlimg: 'https://victoriaheron.github.io/assets/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "bird-of-paradise1.jpg"
 
 # Gems
 gems:
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: jbheron     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: jbheron     # Default author for posts
 
 
 
@@ -157,18 +157,34 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+favicon-32x32:                          'favico.ico'
+# touch-icon-192x192:                     'touch-icon-192x192.png'
+touch-icon-192x192:                     'female-yoga-pose-silhouette-3-152-245206.png'
+# apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-180x180-precomposed:   'female-yoga-pose-silhouette-3-152-245206.png'
+# apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'female-yoga-pose-silhouette-3-152-245206.png'
+# apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'female-yoga-pose-silhouette-3-144-245206.png'
+# apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'female-yoga-pose-silhouette-3-120-245206.png'
+# apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'female-yoga-pose-silhouette-3-114-245206.png'
+# apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'female-yoga-pose-silhouette-3-72-245206.png'
+# apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'female-yoga-pose-silhouette-3-72-245206.png'
+# apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+apple-touch-icon-precomposed:           'female-yoga-pose-silhouette-3-57-245206.png'
 msapplication_tilecolor:                '#fabb00'
+# Everything Else
+
+
+
+
+
+
+# <link rel="icon" href="/path/to/female-yoga-pose-silhouette-3-32-245206.png" sizes="32x32">
 
 
 #       ______                __                __

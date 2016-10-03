@@ -1,32 +1,32 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/victoriarheron
   class: icon-github
-  title: Code und mehr...
+  title: Code base
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCoyRXUvejnoRBPLaa4V4B4A
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Yoga Video"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Facebook
+  url: https://www.facebook.com/victoriaheronyoga/
+  class: icon-facebook
+  title: "Facebook"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Twitter
+#   url: http://twitter.com/phlow
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+Phlow
+#   class: icon-googleplus
+#   title: "YouTube Google+"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
