@@ -157,35 +157,27 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favico.ico'
+favicon-32x32:                          './images/favico.ico'
 # touch-icon-192x192:                     'touch-icon-192x192.png'
-touch-icon-192x192:                     'female-yoga-pose-silhouette-3-152-245206.png'
+touch-icon-192x192:                     './images/female-yoga-pose-silhouette-3-152-245206.png'
 # apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-180x180-precomposed:   'female-yoga-pose-silhouette-3-152-245206.png'
+apple-touch-icon-180x180-precomposed:   './images/female-yoga-pose-silhouette-3-152-245206.png'
 # apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'female-yoga-pose-silhouette-3-152-245206.png'
+apple-touch-icon-152x152-precomposed:   './images/female-yoga-pose-silhouette-3-152-245206.png'
 # apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'female-yoga-pose-silhouette-3-144-245206.png'
+apple-touch-icon-144x144-precomposed:   './images/female-yoga-pose-silhouette-3-144-245206.png'
 # apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'female-yoga-pose-silhouette-3-120-245206.png'
+apple-touch-icon-120x120-precomposed:   './images/female-yoga-pose-silhouette-3-120-245206.png'
 # apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'female-yoga-pose-silhouette-3-114-245206.png'
+apple-touch-icon-114x114-precomposed:   './images/female-yoga-pose-silhouette-3-114-245206.png'
 # apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'female-yoga-pose-silhouette-3-72-245206.png'
+apple-touch-icon-76x76-precomposed:     './images/female-yoga-pose-silhouette-3-72-245206.png'
 # apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'female-yoga-pose-silhouette-3-72-245206.png'
+apple-touch-icon-72x72-precomposed:     './images/female-yoga-pose-silhouette-3-72-245206.png'
 # apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-apple-touch-icon-precomposed:           'female-yoga-pose-silhouette-3-57-245206.png'
+apple-touch-icon-precomposed:           './images/female-yoga-pose-silhouette-3-57-245206.png'
 msapplication_tilecolor:                '#fabb00'
 # Everything Else
-
-
-
-
-
-
-# <link rel="icon" href="/path/to/female-yoga-pose-silhouette-3-32-245206.png" sizes="32x32">
-
 
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
@@ -193,9 +185,9 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
-og_type:                            'website'
+# og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+# og_locale:                          'en_EN'
+# og_type:                            'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -208,9 +200,9 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
-
+    twitter: victoriaheron
+    # facebook: phlow.media
+    facebook: victoriaheron
 
 #        ____  _
 #       / __ \(_)________ ___  _______
