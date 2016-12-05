@@ -1,6 +1,6 @@
 Victorias_site_notes
 
-Here are the notes to find my way around the implementation of the feeling-responsive Jekyll theme for Victoria's yoga site.
+Here are the notes to find my way around the implementation of the feeling-responsive Jekyll theme for Victoria's yoga site. Combined with the Google doc, I should have enough details to maintain this site.
 
 Start with opening jekyll_victoriaheron.com/_config_dev.yml and take note of the following from the config:
 
