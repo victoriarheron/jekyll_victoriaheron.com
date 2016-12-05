@@ -1,3 +1,36 @@
+Victorias_site_notes
+
+Here are the notes to find my way around the implementation of the feeling-responsive Jekyll theme for Victoria's yoga site.
+
+Start with opening jekyll_victoriaheron.com/_config_dev.yml and take note of the following from the config:
+
+# This config-file is only needed for development. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with: $ jekyll serve --config _config.yml,_config_dev.yml --incremental
+
+Publish to repo mapping
+
+/ (root) => _layouts/frontpage.html
+	image 
+	intro text from  
+/about => pages/about-me.md
+
+/classes => pages/classes.md
+
+/classes/corporate-classes => _posts/classes/2016-10-02-corporate-classes.md
+
+/classes/private-classes => _posts/classes/2016-10-02-corporate-classes.md
+
+/media - 404
+/media/archive - 404
+/blog => (builds from /blog/index and /_layouts/blog.htmlblog)
+/blog/archive
+/contact
+	needs wufoo form
+
+
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 
