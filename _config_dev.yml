@@ -9,7 +9,7 @@
 source:      '/Users/jheron/workspace/jekyll_victoriaheron.com' # While Github ignores this value, we set it to this repo for clarity
 destination: '/Users/jheron/workspace/victoriaheron.github_site' # Keeps _site out of source control for development
 
-# production build repository: '~workspace/victoriaheron.github.io' 
+# production build repository: '/Users/jheron/workspace/victoriaheron.github.io' 
 # production build branch: 'master'
 
 url: 		'http://localhost:4000'
