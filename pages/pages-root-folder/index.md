@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: dancer.jpg
+  image_fullwidth: dancer-lg.jpg
 
 #widget1:
 #  title: "Blog & Portfolio"
@@ -34,8 +34,8 @@ header:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /about-me
+  text: Learn more about Victoria ›
   style: alert
 permalink: /index.html
 #
