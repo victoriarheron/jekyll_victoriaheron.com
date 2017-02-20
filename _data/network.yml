@@ -1,6 +1,6 @@
-- menu_name: "Dankeschön"
+- menu_name: "Network"
 
-- name: "Icons by Daniel Bruce"
+- name: "Icons -- Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
