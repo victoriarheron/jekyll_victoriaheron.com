@@ -4,9 +4,12 @@
 #
 # Start development with: $ jekyll serve --config _config.yml,_config_dev.yml --incremental
 
-# For prod, `$ jekyll build` and copy _deploy contents to github folder.
-source:      _source
-destination: _deploy
+# To modify production, run `$ jekyll build` and copy file contents of source repo to the 'victoriaheron.github.io' repo. Contents of destination should serve similar website pages to what the contents of the destination repo will build in production by Github:
+source:      '~/workspace/jekyll_victoriaheron.com'
+destination: '~/workspace/victoriaheron.github_site'
+
+# production build repository: '~workspace/victoriaheron.github.io' 
+# production build branch: 'master'
 
 url: 		'http://localhost:4000'
 baseurl: 	''
