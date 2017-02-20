@@ -4,9 +4,10 @@
 #
 # Start development with: $ jekyll serve --config _config.yml,_config_dev.yml --incremental
 
-# To modify production, run `$ jekyll build` and copy file contents of source repo to the 'victoriaheron.github.io' repo. Contents of destination should serve similar website pages to what the contents of the destination repo will build in production by Github:
-source:      '~/workspace/jekyll_victoriaheron.com'
-destination: '~/workspace/victoriaheron.github_site'
+# To modify production, run `$ jekyll build` and copy file contents of source repo to the 'victoriaheron.github.io' repo. Contents of destination should represent a similar website to what the contents of the source repo will build in production by Github:
+
+source:      '~/workspace/jekyll_victoriaheron.com' # While Github ignores this value, we set it to this repo for clarity
+destination: '~/workspace/victoriaheron.github_site' # Keeps _site out of source control for development
 
 # production build repository: '~workspace/victoriaheron.github.io' 
 # production build branch: 'master'
